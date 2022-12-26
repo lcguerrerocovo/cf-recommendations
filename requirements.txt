@@ -25,4 +25,4 @@ six==1.10.0
 traitlets==4.1.0
 urllib3==1.14
 virtualenv==14.0.6
-wheel==0.26.0
+wheel==0.38.1
